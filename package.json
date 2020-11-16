@@ -1,0 +1,8 @@
+{
+  "name": "recoil-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/colinHon/recoil-demo.git",
+  "author": "colinHon <cendy991@163.com>",
+  "license": "MIT"
+}
