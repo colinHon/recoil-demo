@@ -1,0 +1,11 @@
+.main {
+    padding: 20px;
+}
+.input {
+    margin-bottom: 10px;
+}
+.bgImg {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+}
