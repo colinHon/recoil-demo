@@ -37,4 +37,6 @@ function TextInput() {
     );
 }
 
+console.log('recoil CharacterCounter');
+
 export default CharacterCounter;

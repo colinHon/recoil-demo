@@ -25,4 +25,7 @@ function CharacterCount() {
     return <>Character Count: {count}</>;
 }
 
+
+console.log('recoil CharacterCount');
+
 export default  CharacterCount;

@@ -12,4 +12,7 @@ function App() {
   );
 }
 
+
+console.log('recoil App');
+
 export default App;
